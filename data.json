@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "name": "Kaffee Central",
+      "image": "https://www.vol.at/2019/03/EingangCaf%C3%A9Central_c_Caf%C3%A9Central_sched-4-3-145023111733-2311x1733.jpg",
+      "types": ["tradition", "known"]
+    },
+    {
+      "name": "korbKaffee",
+      "image": "http://www.travelwriter.at/pic/043/wien-cafe-korb-080211g.jpg",
+      "types": ["modern"]
+    },
+    {
+      "name": "sacherKaffee",
+      "image": "https://www.city-walks.info/Wien/bilder/Cafe-Sacher-Eingang.JPG",
+      "types": ["tradition "]
+    }
+  ]
+}
