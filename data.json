@@ -6,14 +6,6 @@
       "types": ["tradition", "known"]
     },
     {
-      "name": "korbKaffee",
-      "image": "http://www.travelwriter.at/pic/043/wien-cafe-korb-080211g.jpg",
-      "types": ["modern"]
-    },
-    {
-      "name": "sacherKaffee",
-      "image": "https://www.city-walks.info/Wien/bilder/Cafe-Sacher-Eingang.JPG",
-      "types": ["tradition "]
     }
   ]
 }
